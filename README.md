@@ -1,7 +1,5 @@
-
 <!doctype html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,14 +12,9 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   <link rel="stylesheet" href="styles/styles.css">
 </head>
-
 <img src="Images/MLBSFHeaderPark.jpg" class="img-fluid" alt="...">
-
 <body>
-   
-  
   <div class="container">
-
     <!--START OF HEADER-->
     <header>
       <div class="d-flex flex-row nav-bar justify-content-around">
@@ -41,8 +34,6 @@
         </ul>
       </div>
     </header>
-
-
     <hr>
     <div class="row">
       <div class="col-sm-8 m-auto">
@@ -64,7 +55,6 @@
               <img class="d-block w-100 h-auto" src="Images/DivingCatchSlide.png">
             </div>
           </div>
-
           <!-- CONTROLS -->
           <a href="#slider3" class="carousel-control-prev" data-slide="prev">
             <span class="carousel-control-prev-icon"></span></a>
@@ -72,17 +62,12 @@
             <span class="carousel-control-next-icon"></span></a>
         </div>
       </div>
-
       <!--END OF CAROUSEL-->
-
-
       <div class="row">
         <!--Left Column-->
         <div class="col-3 text-center"></div>
-
         <!--MIDDLE COLUMN-->
         <div class="col-6 text-center">
-
           <div class="card">
             <img src="Images/BravesCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -105,9 +90,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/oriolesCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -130,9 +113,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/DodgersCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -155,9 +136,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/DevilRaysCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -180,9 +159,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/BrewersCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -205,9 +182,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/AstrosCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -230,9 +205,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/PhillyCARD.jpg" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -255,9 +228,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/RangersCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -280,9 +251,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/BlueJaysCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -305,9 +274,7 @@
               </div>
             </div>
           </div>
-
           <br>
-
           <div class="card">
             <img src="Images/MarinersCARD.png" class="card-img-top img-fluid" alt="...">
             <div class="card-body">
@@ -330,17 +297,9 @@
               </div>
             </div>
           </div>
-
-
           <div class="col-3 text-center"></div>
-
-
           <!--START OF FOOTER-->
-
           <!--END OF FOOTER-->
-
-
-
           <!--DO NOT TOUCH!!!!-->
           <script src="../assets/dist/js/bootstrap.bundle.min.js">
         </script>
@@ -364,8 +323,6 @@
             </script>
           <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript">
         </script>
-
-
           <script>
             $('.carousel').carousel({
                 interval: 3000,
